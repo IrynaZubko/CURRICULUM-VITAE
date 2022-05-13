@@ -1,0 +1,25 @@
+body{font-family: 'Montserrat', sans-serif;}
+/* main styles */
+.main{display: flex; flex-direction: row-reverse;background-color: #F5F7FA; width: 1200px;
+margin: 0px auto}
+
+/* main content styles */
+.main_content{background-color: #FFFFFF;}
+
+/* project title styles */
+.project_title{font-size: 45px;color: blueviolet;}
+/* about styles */
+.about_user{background-color: aqua;}
+/* projects styles */
+.projects{background: blue;
+    margin-top: 100px;margin-bottom: 300px;margin-left: 60px;margin-right: 90px;
+    /* margin: 100px 90px 300px 60px
+    margin: 100px
+    margin: 50px 70px */}
+/* work styles */
+.work{background-color: green;padding-top: 50px;padding-bottom: 100px;padding-left: 20px;padding-right: 20px;}
+/* education styles */
+.education{background-color: greenyellow;}
+
+/* sidebar styles */
+.sidebar{background: #1E2939;}
